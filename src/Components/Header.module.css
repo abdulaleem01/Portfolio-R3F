@@ -1,0 +1,14 @@
+section{
+    height: 100vh;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    color: rgb(255, 0, 0);
+    scroll-snap-align: start;
+}
+/* 
+.container{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+} */

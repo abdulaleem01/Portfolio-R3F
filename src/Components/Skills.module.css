@@ -1,0 +1,36 @@
+.div1{
+    color:#82CD47;
+    padding-top: 3%;
+    padding-left: 10% ;
+}
+
+.h11{
+    font-weight: bolder;
+    font-size: 100px;
+}
+
+.h31{
+    color: #54B435;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.div2{
+    padding-top: 1%;
+    padding-left: 2%;
+}
+
+.div21{
+    display: flex;
+    
+}
+
+
+.p1{
+    color: #379237;
+    font-size: 20px;
+}
+
+.p11{
+    padding-right: 2%;
+}
