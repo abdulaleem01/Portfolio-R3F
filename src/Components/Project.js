@@ -29,7 +29,7 @@ function Project() {
         <div className={classes.div2}>
         <h3 className={classes.h31}>4.Portfolio Site 2</h3>
         <h3 className={classes.h32}>This is the current site you are viewing, built using Threejs and React three fiber 
-        <a target='_blank' href='https://github.com/abdulaleem01/ALoveGame'><AiFillGithub color='lightblue' size={40}></AiFillGithub></a></h3>
+        <a target='_blank' href='https://github.com/abdulaleem01/Portfolio-R3F'><AiFillGithub color='lightblue' size={40}></AiFillGithub></a></h3>
         </div>
 
         <div className={classes.div2}>
